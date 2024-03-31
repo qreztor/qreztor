@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @qreztor
 - 👀 I’m interested in machine learning, automation and robot engineering.
 - 🌱 I’m currently learning how to mix existing technology to make something useful.
+- 🌱 I’m also learning how to use git. Why is it so hard?
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: 
 
